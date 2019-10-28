@@ -28,7 +28,7 @@ twitter_username: oilandrust
 github_username: oilandrust
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
