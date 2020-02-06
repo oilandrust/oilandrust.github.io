@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Olivier Rast - Programming Coach - Consultant
+title: Olivier Rouiller - C++ Programmer and more
 email: o.rouiller@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal web page of Olivier Rast
+  Personal web page of Olivier Rouiller
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: oilandrust
 github_username: oilandrust
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
